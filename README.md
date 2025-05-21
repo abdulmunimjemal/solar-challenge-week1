@@ -16,7 +16,7 @@ To initialize the project, follow these steps:
 
 1. Clone the repository. to clone run this command in the terminal
        ```bash
-        git clone https://github.com/yohannesalex/solar-challenge-week1
+        git clone https://github.com/abdulmunimjemal/solar-challenge-week1
        ```
 
 
